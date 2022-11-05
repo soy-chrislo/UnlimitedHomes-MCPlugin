@@ -1,0 +1,10 @@
+name: Unlimited-Homes
+version: '${version}'
+main: com.soychristian.unlimitedhomes.UnlimitedHomes
+api-version: 1.8
+commands:
+    unlimitedhomes:
+        description: Unlimited Homes
+        usage: /unlimitedhomes
+        aliases: [uh]
+
